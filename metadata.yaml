@@ -1,0 +1,43 @@
+_repo: The-Three-Brides-Love-in-a-Cottage-and-Other-Tales_17669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Durivage, Francis A. (Francis Alexander)
+    aliases:
+    - Old 'un
+    - Durivage, F. A. (Francis Alexander)
+    birthdate: 1814
+    deathdate: 1881
+    gutenberg_agent_id: '7531'
+    url: http://www.gutenberg.org/2009/agents/7531
+description: ''
+gutenberg_issued: '2006-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: The goldsmith's daughter -- Philetus Potts -- The gondolier -- The
+  surrender of Cornwallis -- The three brides -- California speculation -- The French
+  guardsman -- Personal satisfaction -- The castle on the Rhine -- Love in a cottage
+  -- The career of an artist -- Souvenirs of a retired oysterman in ill health --
+  The New Year's stockings -- The obliging young man -- Eulalie Lasalle -- The old
+  city pump -- The two portraits -- Uncle Obed -- The casket of jewels -- Acting charades
+  -- The green chamber -- He wasn't a horse jockey -- Funeral shadows -- The late
+  Elias Muggs -- The soldier's wife -- A kiss on demand -- The rifle shot -- The water
+  cure -- The Cossack -- Married for money -- The emigrant ship -- The last of the
+  stage coaches -- The sexton of St. Hubert's -- Jack Withers -- The silver hammer
+  -- The Christ Church chimes -- The Polish slave -- Obeying orders -- The deacon's
+  horse -- The contrabandista -- The stage-struck gentleman -- The diamond star --
+  The game of chance -- The soldier's son -- Taking charge of a lady -- The New Year's
+  bells -- The old year and the new.
+title: The Three Brides, Love in a Cottage, and Other Tales
+url: http://www.gutenberg.org/ebooks/17669
